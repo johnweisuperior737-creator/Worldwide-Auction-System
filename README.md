@@ -1,10 +1,10 @@
-# Online Auction System
+# Worldwide Auction System
 
-This project focuses on the design and implementation of a comprehensive database schema for managing users, items, bids, auctions, and transactions in an online auction environment. 🎉
+This project focuses on the design and implementation of a comprehensive database schema for managing users, items, bids, auctions, and transactions in an worldwide auction environment. 🎉
 
 ## Project Overview
 
-The Online Auction System is designed to facilitate seamless interactions between buyers, sellers, and admins through a well-structured database schema. Key features include:
+The Worldwide Auction System is designed to facilitate seamless interactions between buyers, sellers, and admins through a well-structured database schema. Key features include:
 
 - **User Management**: Centralized user profile management with details such as unique User_ID, Username, Password, Email, Address, preferred payment methods, and transaction history.
 - **Item Management**: Detailed tracking of auction items with attributes like Item_ID, Seller_ID, Item_Name, Description, Starting_Price, Auction_End_Time, item condition, category, and images.
@@ -46,14 +46,5 @@ This project leverages a variety of technologies to deliver a robust online auct
 - For the setup instructions, please refer to the [Setup Guide](./SETUP.md).
 - For contributing guidelines, please see the [Contributing Guide](./CONTRIBUTING.md).
 
-## Demo & Documentation
-
-Check out the following resources to better understand the project:
-
-- **[Demo Video](https://github.com/user-attachments/assets/b93b3b77-e1bc-4d35-8c14-638d192a6f94)**: A video demonstration of the Online Auction System in action.
-
-https://github.com/user-attachments/assets/b93b3b77-e1bc-4d35-8c14-638d192a6f94
-
-- **[PowerPoint Presentation](https://github.com/user-attachments/files/16395925/MiniProject_PPT_Online.Auction.System_Final_.pdf)**: A presentation outlining the project details and architecture.
 
 - **[Project Report](https://github.com/user-attachments/files/16395875/PROJECT.REPORT_FINAL.pdf)**: Comprehensive report detailing the project implementation and findings.
