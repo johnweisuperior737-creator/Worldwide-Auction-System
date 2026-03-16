@@ -1,6 +1,6 @@
-# Contributing to the Online Auction System
+# Contributing to the Worldwide Auction System
 
-Thank you for your interest in contributing to the Online Auction System! We welcome contributions of all kinds, whether it’s bug fixes, new features, or improvements to the documentation. Please follow the guidelines below to help us maintain a collaborative and effective project.
+Thank you for your interest in contributing to the Worldwide Auction System! We welcome contributions of all kinds, whether it’s bug fixes, new features, or improvements to the documentation. Please follow the guidelines below to help us maintain a collaborative and effective project.
 
 ## How to Contribute
 
@@ -10,8 +10,8 @@ Thank you for your interest in contributing to the Online Auction System! We wel
 ### 2. Clone Your Fork
 - Clone your forked repository to your local machine:
   ```bash
-  git clone https://github.com/YOUR_USERNAME/Online-Auction-System.git
-  cd Online-Auction-System
+  git clone https://github.com/YOUR_USERNAME/Worldwide-Auction-System.git
+  cd Worldwide-Auction-System
   ```
 
 ### 3. Create a New Branch
