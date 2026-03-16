@@ -65,4 +65,4 @@ We expect all contributors to adhere to our [Code of Conduct](CODE_OF_CONDUCT.md
 
 - [Project Demo Video](https://github.com/user-attachments/assets/b93b3b77-e1bc-4d35-8c14-638d192a6f94) - A video demonstration of the Worldwide Auction System in action.
 
-Thank you for your contributions! Together, we can make the Online Auction System better for everyone. Happy coding! 🎉
+Thank you for your contributions! Together, we can make the Worldwide Auction System better for everyone. Happy coding! 🎉
