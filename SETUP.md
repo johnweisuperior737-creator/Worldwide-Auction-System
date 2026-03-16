@@ -1,4 +1,4 @@
-# Online Auction System - Setup Guide
+# Worldwide Auction System - Setup Guide
 
 This guide will help you set up the Online Auction System, which includes a React frontend in the `client` directory and a backend powered by Node.js and PostgreSQL in the `server` directory, with PostgreSQL running in a Docker container.
 
@@ -22,8 +22,8 @@ Ensure that the following are installed on your machine:
 First, clone the project repository:
 
 ```bash
-git clone https://github.com/manascb1344/Online-Auction-System.git
-cd Online-Auction-System
+git clone https://github.com/.../Worldwide-Auction-System.git
+cd Worldwide-Auction-System
 ```
 
 ## 2. Set Up the Frontend
