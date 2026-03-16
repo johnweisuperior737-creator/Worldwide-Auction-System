@@ -2,7 +2,7 @@
 
 ## Our Pledge
 
-We, as members, contributors, and leaders of the Online Auction System community, pledge to make participation in our project a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
+We, as members, contributors, and leaders of the Worldwide Auction System community, pledge to make participation in our project a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
 ## Our Standards
 
@@ -32,11 +32,7 @@ Project maintainers have the right and responsibility to remove, edit, or reject
 
 This Code of Conduct applies within all project spaces, and it applies when an individual is representing the project or its community in public spaces. Examples of representing a project or community include using an official project email address, posting via an official social media account, or acting as an appointed representative at an online or offline event.
 
-## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at [your-email@example.com]. All complaints will be reviewed and investigated promptly and fairly.
-
-We will maintain confidentiality with respect to the reporter of an incident. The project team is obligated to respect the privacy of the reporter of any incident.
 
 ## Attribution
 
